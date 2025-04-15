@@ -15,8 +15,6 @@ We use a **regression model** trained with **TensorFlow** and **Keras** to predi
 
 ```
 .
-├── insurance.csv           # Data file
-├── model.py                # Main script containing data preprocessing, training, and evaluation
 ├── README.md               # This file
 └── requirements.txt        # List of dependencies to run the project
 ```
