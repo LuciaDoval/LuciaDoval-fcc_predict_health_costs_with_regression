@@ -16,7 +16,7 @@ We use a **regression model** trained with **TensorFlow** and **Keras** to predi
 ```
 .
 ├── README.md               # This file
-└── requirements.txt        # List of dependencies to run the project
+└── fcc_predict_health_costs_with_regression.ipynb        
 ```
 
 ## **Dataset Description**
